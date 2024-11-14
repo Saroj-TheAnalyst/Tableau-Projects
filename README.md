@@ -49,3 +49,8 @@ This repository provides a comprehensive Tableau dashboard tutorial for beginner
    FROM Orders o
    JOIN Customers c
    ON o.CustomerID = c.CustomerID
+
+3. **Calculated Fields**: Create calculated fields to enhance your analysis. For example, calculating Profit Margin:
+Profit Margin: (Profit / Sales) * 100
+4. **Filters**: Apply filters to display relevant data, such as filtering by region or product category.
+
